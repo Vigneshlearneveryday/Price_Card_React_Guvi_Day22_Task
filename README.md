@@ -22,12 +22,8 @@ I learned to create react project as well as to include components in it which h
 
 ## Website
 
-[React-Price-Card-Task]()
+[React-Price-Card-Task](https://pricecarddrill.netlify.app)
 
-
-## Screenshots
-
-![App Screenshot](./src/image/out.png)
 
 
 ## Setup
